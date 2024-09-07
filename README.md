@@ -1,4 +1,4 @@
-# h1 Face Detection / Eye localization software
+# Face Detection / Eye localization software
 
 A small script for face detection and eye localization I made while I had access to a Raspberry Pi. I wanted to play with
 it a bit, so I created this script as at the time I was involved in some AI work at college.
